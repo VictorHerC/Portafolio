@@ -1,0 +1,16 @@
+.container-fluid{
+  
+  background-color:rgb(204, 204, 219) ;
+}
+.nav-link{
+  color:white;
+ 
+
+}
+.logo{
+  height: 20%;
+  width: 20%;
+}
+#navbarTogglerDemo01{
+  color: white;
+}
